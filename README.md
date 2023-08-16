@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python, Rust**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, C **
 
 - 📫 How to reach me **sraj77k@gmail.com**
 
