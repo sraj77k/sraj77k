@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sraj77k&label=Profile%20views&color=0e75b6&style=flat" alt="sraj77k" /> </p>
 
-- 🌱 I’m currently learning **Python,C**
+- 🌱 I’m currently learning **Verilog, C**
 
 - 💬 Ask me about **Python**
 
